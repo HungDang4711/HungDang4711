@@ -14,6 +14,23 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+<!DOCTYPE html>
+
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+<title>Hung Dang</title>
+</head>
+<body>
+    <table border="1" width="100%">
+	<thead>
+		<tr>
+			<td>Row 1, cell 1</td>
+			<td>Row 1, cell 2</td>
+			<td>Row 2, cell 3</td>
+		</tr>
+	</thead>
+
+    <h1 id="My_First_Heading">My First Heading</h1>
 
 - Bulleted
 - List
